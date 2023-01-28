@@ -4,6 +4,8 @@ Adds a simple persistent decals system to your schema.
 Uses netstream!
 <br/>
 My Discord: Winkarst#6698
+# Video demonstartion
+[![Watch the video](https://www.youtube.com/watch?v=Db1XeMl2MBM)](https://www.youtube.com/watch?v=Db1XeMl2MBM)
 
 ## MIT License
 
