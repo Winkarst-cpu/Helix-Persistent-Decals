@@ -5,7 +5,7 @@ Uses netstream!
 <br/>
 My Discord: Winkarst#6698
 # Video demonstartion
-[![Watch the video](https://www.youtube.com/watch?v=Db1XeMl2MBM)](https://www.youtube.com/watch?v=Db1XeMl2MBM)
+[![Watch the video]([https://www.youtube.com/watch?v=Db1XeMl2MBM](https://i.ytimg.com/an_webp/Db1XeMl2MBM/mqdefault_6s.webp?du=3000&sqp=CKnC1Z4G&rs=AOn4CLBmQmDt3digJI2ZC4BcrGcvnXQ0zQ))](https://www.youtube.com/watch?v=Db1XeMl2MBM)
 
 ## MIT License
 
