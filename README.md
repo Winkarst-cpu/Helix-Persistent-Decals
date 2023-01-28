@@ -1,6 +1,8 @@
 # Helix-Persistent-Decals
 Adds a simple persistent decals system to your schema.
+<br/>
 Uses netstream!
+<br/>
 My Discord: Winkarst#6698
 
 ## MIT License
